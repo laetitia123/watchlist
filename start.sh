@@ -1,3 +1,6 @@
- export MOVIE_API_KEY=0a05ea57a37e91924e9ee789ef7f8fa9
-export SECRET_KEY=Flask WTF Secret Key
+export MOVIE_API_KEY='ff73536b7f0e63d45fe4f61ecf8eb703'
+export SECRET_KEY ='a random string'
+export MAIL_USERNAME='uwizelaetitia@gmail.com'
+export MAIL_PASSWORD='takecare1'
 python3.6 manage.py server
+
